@@ -1,2 +1,4 @@
 # ENLM-pytorch
-A PyTorch implementation of ENTITYNLM 
+
+A PyTorch implementation of [ENTITYNLM](https://github.com/jiyfeng/entitynlm)
+
